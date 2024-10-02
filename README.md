@@ -39,7 +39,7 @@ The Decentralized File Storage System is a web-based application built on web3 t
 
    ```shell
 
-   git clone (https://github.com/vsb-04/file-sharing-system.git)
+   git clone https://github.com/vsb-04/file-sharing-system.git
 
    ```
 
