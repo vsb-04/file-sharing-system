@@ -32,9 +32,6 @@ The Decentralized File Storage System is a web-based application built on web3 t
 
 - Storage: Pinata
 
-## Demo
-
-https://file-storage-system.vercel.app/
 
 ## Installation
 
@@ -42,7 +39,7 @@ https://file-storage-system.vercel.app/
 
    ```shell
 
-   git clone https://github.com/Bhanu1776/File-Storage-System
+   git clone (https://github.com/vsb-04/file-sharing-system.git)
 
    ```
 
