@@ -97,15 +97,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Submit a pull request to the main repository.
 
 
-## Contributors 💣
 
-<a href="https://github.com/Bhanu1776/File-Storage-System/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Bhanu1776/File-Storage-System" />
-</a>
-
-## Support Me 🫂
-
-<a href="https://www.buymeacoffee.com/Bhanu1776"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <hr>
 
