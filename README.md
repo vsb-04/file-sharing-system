@@ -97,11 +97,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Submit a pull request to the main repository.
 
 
-
-
-<hr>
-
-© 2023 Bhanu Sunka and contributors\
-This project is licensed under the [**MIT license**](https://github.com/Bhanu1776/File-Storage-System/blob/master/LICENSE).
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
